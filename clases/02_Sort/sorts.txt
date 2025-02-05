@@ -1,0 +1,4 @@
+1. Bubble
+2. Quick sort
+3. Selection sort
+4. Insection sort
