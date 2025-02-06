@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-//5175. Dados de Fer
+//5175. Dados de Fer (Recursividad)
 
 void generarCombinaciones(int D, int N, string actual) {
     if (actual.length() == N) {
