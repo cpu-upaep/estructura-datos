@@ -1,0 +1,2 @@
+Memoria estática: el tamaño de las variables estpaticas es conocido y fijo
+Memoria dinámica: el tamaño de las estructuras dinámicas puede no ser conocido y no es fijo
