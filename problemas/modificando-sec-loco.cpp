@@ -1,4 +1,4 @@
-// Source: https://usaco.guide/general/io
+// Source: https://ide.usaco.guide/OMO6-te-Vdwm4GLwrzE
 //Authors: Emi y Fer
 
 #include <iostream>
